@@ -1,0 +1,10 @@
+#print("hello ,dfeefr,,ksjdhlekd")
+# -*- coding: utf-8 -*-
+print("Jak masz na imię?")
+i= input()
+print("Cześć", i, "miło Cię poznać")
+print("Ile masz lat?")
+w= input()
+print("Z jakiego peronu dostaniesz się do Hogwartu?")
+peron = input()
+print("W wieku", w, "lat chyba już nie ma sensu jechać na peron", peron)
